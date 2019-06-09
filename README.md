@@ -10,6 +10,10 @@ you can use the old dos bitmap fonts in go.
     // use font face fonts[i].Face
     // of type golang.org/x/image/font/basicfont.Face
 
+## Rendering
+
+![fonts/NEW1252.FON.png](fonts/NEW1252.FON.png)
+
 # TODO
 
 * Implementation of the PE format
