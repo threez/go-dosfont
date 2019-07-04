@@ -1,4 +1,4 @@
-module github.com/threez/fon-go
+module github.com/threez/go-dosfont
 
 go 1.12
 
